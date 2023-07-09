@@ -93,10 +93,24 @@ Public
 
 ## Test and Deploy
 
-Github Deployment url: _deployed url_
-Slideshow document: _insert here_
-Github repos:
-Meriam - _insert repo_
+✅ Github Deployment url:
+
+https://msadio8.github.io/Project-1-COVID-Flight-Tracker/
+
+https://dantas11.github.io/COVID-Flight-Tracker/
+
+https://njheymann.github.io/Covid-Flight-Tracker/
+
+✅ Slideshow document:
+
+https://docs.google.com/presentation/d/1ZmuMUNBJ-UGtnpmciAnG-9LleW7KSot3D2RSVgc-o1c/edit#slide=id.g257b4615dd6_0_129
+
+✅ Github repos:
+
+Meriam - https://github.com/msadio8/Project-1-COVID-Flight-Tracker
+
 Thiago Dantas - https://github.com/Dantas11/COVID-Flight-Tracker
+
 Ying Jie Puk - _insert repo_
+
 Nils Heymann - https://github.com/njheymann/Covid-Flight-Tracker
